@@ -5,7 +5,7 @@ Welcome to my collection of AI projects from the Harvard Artificial Intelligence
 
 ## Overview
 
-This repository contains 13 projects, each focusing on different aspects of artificial intelligence, including machine learning, natural language processing, search algorithms, and more. Below is a brief description of each project and the AI concepts it explores.
+This repository contains 12 projects, each focusing on different aspects of artificial intelligence, including machine learning, natural language processing, search algorithms, and more. Below is a brief description of each project and the AI concepts it explores.
 
 ## Projects
 
