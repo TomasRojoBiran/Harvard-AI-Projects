@@ -1,7 +1,6 @@
-# Harvard-AI-Projects
-My AI projects from Harvard!
+# Harvard Artificial Intelligence Projects
 
-Welcome to my collection of AI projects from the Harvard Artificial Intelligence with Python course. These projects demonstrate my proficiency in various AI concepts, algorithms, and problem-solving techniques, showcasing practical applications of artificial intelligence.
+Welcome to my collection of AI projects from the Harvard Artificial Intelligence with Python course. These projects demonstrate my proficiency in various AI concepts, algorithms, and problem-solving techniques, showcasing practical applications of artificial intelligence using popular libraries such as Scikit-Learn, Pandas, and TensorFlow.
 
 ## Overview
 
@@ -31,7 +30,13 @@ This repository contains 12 projects, each focusing on different aspects of arti
 
 11. **TicTacToe**: Implementation of a minimax algorithm for playing Tic-Tac-Toe, ensuring the AI plays optimally against human opponents.
 
-12. **Traffic**: A convolutional neural network (CNN) trained to recognize and classify traffic signs from images.
+12. **Traffic**: A convolutional neural network (CNN) trained to recognize and classify traffic signs from images using TensorFlow and Keras.
+
+## Key Technologies Used
+
+- **Scikit-Learn**: Used extensively for building and evaluating machine learning models, including classification, regression, and clustering tasks.
+- **Pandas**: Utilized for data manipulation, cleaning, and analysis, making it easier to handle datasets and extract meaningful insights.
+- **TensorFlow**: Implemented for deep learning tasks, particularly for constructing and training neural networks, such as in the `Traffic` project for image classification.
 
 ## Features
 
@@ -39,4 +44,3 @@ This repository contains 12 projects, each focusing on different aspects of arti
 - **Well-Documented Code**: All projects include comments and explanations to aid understanding and demonstrate coding practices.
 - **Scalable**: The projects are designed to be scalable, allowing for further development and exploration.
 - **Practical Applications**: Each project focuses on solving real-world problems, making the theoretical knowledge of AI applicable.
-
